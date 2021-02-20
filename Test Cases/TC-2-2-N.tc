@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To ensure user can't login on mandatory field</description>
+   <name>TC-2-2-N</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abf77ff1-2292-43d8-af14-6e935ed6435e</testCaseGuid>
+</TestCaseEntity>

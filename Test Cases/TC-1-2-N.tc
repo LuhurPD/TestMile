@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To ensure user will able login using Organiziation Name</description>
+   <name>TC-1-2-N</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a42f3905-e30c-40c0-907e-7fea808d5998</testCaseGuid>
+</TestCaseEntity>
